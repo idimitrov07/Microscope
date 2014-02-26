@@ -17,4 +17,5 @@ if (Posts.find().count() === 0) {
 		author: 'Tom Coleman',
 		url: 'http://themeteorbook.com'
 	});
+	
 }
